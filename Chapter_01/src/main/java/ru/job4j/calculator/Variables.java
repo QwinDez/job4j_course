@@ -1,4 +1,11 @@
-package ru.job4j.calculate;
+package ru.job4j.calculator;
+
+/**
+ * Класс предназначен для наглядности
+ * создания переменных и типов данных
+ * @author Denis Soldatkin
+ * @version 1.0
+ */
 
 public class Variables {
     public static void main(String[] args) {
